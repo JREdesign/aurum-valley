@@ -2,6 +2,10 @@
 
 Un juego 3D de vida rural y cría de dinosaurios, en español. Primera versión jugable construida como una porción vertical del briefing: una finca, una camioneta, trabajo rural y una especie con identidad persistente. No pretende implementar de golpe las nueve fases del documento original.
 
+<p align="center">
+  <img src="https://imgur.com/Rx2rjpI.png" alt="Descripción de la imagen" width="500">
+</p>
+
 ## Jugar en Windows
 
 Descarga el .zip del repositorio en una carpeta en tu ordenador. Abre **JUGAR.cmd**. La primera ejecución instala las dependencias si faltan y abre el juego en tu navegador. Necesitas Node.js 22.12 o posterior. Mantén abierta la ventana del servidor mientras juegas. Para detenerlo, pulsa Ctrl+C en esa ventana.
