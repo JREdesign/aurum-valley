@@ -3,7 +3,7 @@
 Un juego 3D de vida rural y cría de dinosaurios, en español. Primera versión jugable construida como una porción vertical del briefing: una finca, una camioneta, trabajo rural y una especie con identidad persistente. No pretende implementar de golpe las nueve fases del documento original.
 
 <p align="center">
-  <img src="https://imgur.com/Rx2rjpI.png" alt="Descripción de la imagen" width="500">
+  <img src="https://imgur.com/Rx2rjpI.png" alt="Descripción de la imagen" width="100">
 </p>
 
 ## Jugar en Windows
